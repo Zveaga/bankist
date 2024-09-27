@@ -11,15 +11,15 @@ request loans, view their transaction history, transfer money to other accounts,
 
 ## App Features
 - User Authentication:<br>
-	-Allows users to log in with their credentials
+	- Allows users to log in with their credentials
 - Account Balance:<br>
-	-Displays the user's current balance
+	- Displays the user's current balance
 - Transaction History:<br>
-	-Lists all the past transactions
+	- Lists all the past transactions
 - Money Transfers:<br>
-	-Transfer money to other accounts
+	- Transfer money to other accounts
 - Close Account:<br>
-	-Close the account with credentials validation
+	- Close the account with credentials validation
 
 ## Technologies
 -  CSS

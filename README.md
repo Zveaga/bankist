@@ -25,7 +25,6 @@ request loans, view their transaction history, transfer money to other accounts,
 -  Event Handling
 -  DOM Manipulation
 -  Array Methods
--  Working with dates
 
 ## Acknowledgements
 This project is part of [Jonas Schmedtmann's JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) on Udemy.<br>

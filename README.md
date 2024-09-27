@@ -5,8 +5,8 @@ request loans, view their transaction history, transfer money to other accounts,
 ## How to run
 - Clone the repository and open the index.html page to start
 - To log in, you can use this account:<br>
-  - username: 'ra'<br>
-  - pin: '1111'
+  - Username: 'ra'<br>
+  - PIN: '1111'
 - Start experimenting with the app's [features](#app-features) 
 
 ## App Features

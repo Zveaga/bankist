@@ -1,11 +1,11 @@
 # Bankist
-Bankist is a banking app simulator that allows users to log in, view their account ballance, 
+Bankist is a banking app simulator that allows users to log in, view their account balance, 
 request loans, view their transaction history, transfer money to other accounts, and close their account. 
 
 ## How to run
 - Clone the repository and open the index.html page to start
 - To log in, you can use this account: -username: 'ra', pin: '1111'
-- Start experimenting with the app [features](#app-features) 
+- Start experimenting with the app's [features](#app-features) 
 
 ## App Features
 - User Authentication: Allows users to log in with their credentials
